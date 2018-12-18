@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ContinuousSelectionAdapters</string>
+    <string name="toggleselmode">Toggle\nselection\nmode</string>
+</resources>
